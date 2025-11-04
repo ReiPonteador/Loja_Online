@@ -1,3 +1,6 @@
+CREATE DATABASE loja_online;
+USE loja_online;
+
 -- Criação da tabela 'Caracteristica'
 CREATE TABLE Caracteristica (
     id INT(4) AUTO_INCREMENT PRIMARY KEY,
